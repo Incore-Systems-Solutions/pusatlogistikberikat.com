@@ -1,5 +1,30 @@
 @extends('layouts.main')
 
+@section('meta')
+        @php
+        $meta = \App\Helpers\Format::getCachedMeta();
+      //   $lang = app()->getLocale() ?? 'id';
+        $lang = 'id';
+    @endphp
+
+   <!-- Meta Item -->
+
+    <title>{{ $meta['meta'][$lang]['title'] ?? 'Pendampingan Izin & Implementasi PLB – PusatLogistikBerikat.com' }}</title>
+    <meta name="description" content="{{ $meta['meta'][$lang]['description'] ?? 'Dapatkan layanan konsultasi profesional untuk pengajuan izin, pembangunan, dan pengelolaan Pusat Logistik Berikat. Kami membantu perusahaan memahami peraturan, sistem IT inventory, dan proses ekspor-impor PLB.' }}">
+    <meta name="keywords" content="{{ $meta['meta'][$lang]['keywords'] ?? 'konsultan PLB, pusat logistik berikat, izin PLB, implementasi PLB, IT inventory, ekspor impor, bea cukai, logistik terpadu, kawasan berikat' }}">
+   <!-- Schema Item -->
+    {{-- Schema Item --}}
+    @if (!empty($meta['schema'][$lang]))
+        @foreach ($meta['schema'][$lang] as $schemaItem)
+            @if (!empty($schemaItem['structured_data']))
+                <script type="application/ld+json">
+                    {!! $schemaItem['structured_data'] !!}
+                </script>
+            @endif
+        @endforeach
+    @endif
+@endsection
+
 @section('content')
 <div class="post-area">
   <div id="contact" class="container">
