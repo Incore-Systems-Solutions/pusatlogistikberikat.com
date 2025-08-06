@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'slide_1_title' => 'Warehouse Management System',
+    'slide_1_desc' => 'Enhance stock control and distribution through automation technology.',
+    'slide_1_cta' => 'Contact Us',
+    'fitur' => 'Key Features of Warehouse System',
+    'feature_1_title' => 'Inventory Control',
+    'feature_1_desc' => 'Manage product stock in real-time with high accuracy.',
+    'feature_2_title' => 'Storage Location Setup',
+    'feature_2_desc' => 'Organize and monitor storage locations efficiently.',
+    'feature_3_title' => 'Process Automation',
+    'feature_3_desc' => 'Speed up inbound and outbound logistics operations.',
+    'feature_4_title' => 'Goods Tracking',
+    'feature_4_desc' => 'Track item movement within and between warehouses.',
+    'feature_5_title' => 'Data Integration',
+    'feature_5_desc' => 'Connect with other systems for consistent data updates.',
+    'feature_6_title' => 'Dynamic Reporting',
+    'feature_6_desc' => 'Quickly generate and access warehouse activity reports.',
+    'feature_7_title' => 'Data Security',
+    'feature_7_desc' => 'Protect warehouse data with advanced security protocols.',
+    'feature_8_title' => 'Access Control',
+    'feature_8_desc' => 'Assign user access based on defined roles.',
+    'feature_9_title' => 'User-Friendly Interface',
+    'feature_9_desc' => 'Simple design for easy system navigation and usage.',
+];

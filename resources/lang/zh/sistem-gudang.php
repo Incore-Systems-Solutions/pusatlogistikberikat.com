@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'slide_1_title' => '集成仓库系统',
+    'slide_1_desc' => '通过智能仓库系统高效管理库存和货物流动。',
+    'slide_1_cta' => '联系我们',
+    'fitur' => '仓库系统功能',
+    'feature_1_title' => '库存管理',
+    'feature_1_desc' => '精确监控和控制库存。',
+    'feature_2_title' => '智能存储',
+    'feature_2_desc' => '通过位置管理优化存储空间。',
+    'feature_3_title' => '货物追踪',
+    'feature_3_desc' => '实时追踪货物流动。',
+    'feature_4_title' => '数据整合',
+    'feature_4_desc' => '与ERP和物流模块无缝集成。',
+    'feature_5_title' => '流程自动化',
+    'feature_5_desc' => '通过自动化减少人工错误。',
+    'feature_6_title' => '进出货管理',
+    'feature_6_desc' => '快速记录所有进出活动。',
+    'feature_7_title' => '访问安全',
+    'feature_7_desc' => '根据角色和权限控制用户访问。',
+    'feature_8_title' => '绩效报告',
+    'feature_8_desc' => '分析仓库运营表现。',
+    'feature_9_title' => '系统可扩展性',
+    'feature_9_desc' => '适用于各种规模和类型的仓库。',
+];

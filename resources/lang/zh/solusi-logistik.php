@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'slide_1_title' => '现代物流解决方案',
+    'slide_1_desc' => '通过高效集成的系统优化您的物流管理。',
+    'slide_1_cta' => '联系我们',
+    'fitur' => '物流解决方案特色',
+    'feature_1_title' => '系统集成',
+    'feature_1_desc' => '将供应链的所有元素整合到一个平台上。',
+    'feature_2_title' => '实时监控',
+    'feature_2_desc' => '实时跟踪物流状态和运输信息。',
+    'feature_3_title' => '流程自动化',
+    'feature_3_desc' => '通过自动化减少人为错误。',
+    'feature_4_title' => '库存管理',
+    'feature_4_desc' => '准确高效地管理库存。',
+    'feature_5_title' => '报告与分析',
+    'feature_5_desc' => '从物流数据中获取洞察。',
+    'feature_6_title' => '海关集成',
+    'feature_6_desc' => '简化进出口流程，实现系统互联。',
+    'feature_7_title' => '可扩展性',
+    'feature_7_desc' => '适用于各种规模的企业。',
+    'feature_8_title' => '多平台访问',
+    'feature_8_desc' => '可通过多个设备进行操作控制。',
+    'feature_9_title' => '数据安全',
+    'feature_9_desc' => '使用高级安全标准保护关键数据。',
+];

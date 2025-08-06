@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'slide_1_title' => 'Bonded Logistics Center',
+    'slide_1_desc' => 'A strategic solution for national import and export distribution efficiency.',
+    'slide_1_cta' => 'Contact Us',
+    'fitur' => 'Key Features',
+    'feature_1_title' => 'Strategic Location',
+    'feature_1_desc' => 'Located at major distribution points for logistics efficiency.',
+    'feature_2_title' => 'Modern Facilities',
+    'feature_2_desc' => 'Equipped with advanced infrastructure and digital systems.',
+    'feature_3_title' => 'Customs Supervision',
+    'feature_3_desc' => 'Directly supervised by the Directorate General of Customs and Excise.',
+    'feature_4_title' => 'Cost Efficiency',
+    'feature_4_desc' => 'Reduces logistics costs with an integrated system.',
+    'feature_5_title' => 'Integrated Services',
+    'feature_5_desc' => 'Customs and logistics services integrated into one platform.',
+    'feature_6_title' => 'Real-time Goods Management',
+    'feature_6_desc' => 'Monitor goods movement directly and accurately.',
+    'feature_7_title' => 'Large Storage Capacity',
+    'feature_7_desc' => 'Supports large volumes and various types of goods.',
+    'feature_8_title' => 'High Security System',
+    'feature_8_desc' => 'Utilizing advanced 24/7 security technology.',
+    'feature_9_title' => 'Easy Access',
+    'feature_9_desc' => 'Efficient access to land, sea, and air transport.',
+];

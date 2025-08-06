@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'slide_1_title' => 'Solusi Logistik Modern',
+    'slide_1_desc' => 'Optimalkan pengelolaan logistik Anda dengan sistem terintegrasi dan efisien.',
+    'slide_1_cta' => 'Hubungi Kami',
+    'fitur' => 'Fitur Solusi Logistik',
+    'feature_1_title' => 'Integrasi Sistem',
+    'feature_1_desc' => 'Menghubungkan semua elemen rantai pasok dalam satu platform.',
+    'feature_2_title' => 'Pemantauan Real-Time',
+    'feature_2_desc' => 'Lacak pengiriman dan status logistik secara langsung.',
+    'feature_3_title' => 'Otomatisasi Proses',
+    'feature_3_desc' => 'Kurangi kesalahan manusia dengan sistem otomatis.',
+    'feature_4_title' => 'Manajemen Persediaan',
+    'feature_4_desc' => 'Kelola stok barang secara akurat dan efisien.',
+    'feature_5_title' => 'Pelaporan dan Analisis',
+    'feature_5_desc' => 'Dapatkan wawasan mendalam dari data logistik Anda.',
+    'feature_6_title' => 'Integrasi Bea Cukai',
+    'feature_6_desc' => 'Permudah proses ekspor-impor dengan sistem terhubung.',
+    'feature_7_title' => 'Skalabilitas',
+    'feature_7_desc' => 'Solusi fleksibel untuk bisnis skala kecil hingga besar.',
+    'feature_8_title' => 'Akses Multi-Platform',
+    'feature_8_desc' => 'Kendalikan operasional dari berbagai perangkat.',
+    'feature_9_title' => 'Keamanan Data',
+    'feature_9_desc' => 'Lindungi informasi penting dengan standar keamanan tinggi.',
+];

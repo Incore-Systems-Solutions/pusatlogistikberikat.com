@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'slide_1_title' => 'ERP Logistik Terintegrasi',
+    'slide_1_desc' => 'Tingkatkan efisiensi dan akurasi manajemen logistik dengan sistem ERP yang menyatu.',
+    'slide_1_cta' => 'Hubungi Kami',
+    'fitur' => 'Fitur ERP Logistik',
+    'feature_1_title' => 'Perencanaan Logistik',
+    'feature_1_desc' => 'Susun strategi pengelolaan logistik secara terstruktur.',
+    'feature_2_title' => 'Integrasi Modul',
+    'feature_2_desc' => 'Sistem terhubung langsung dengan keuangan, gudang, dan pembelian.',
+    'feature_3_title' => 'Manajemen Pesanan',
+    'feature_3_desc' => 'Kelola pemesanan dan pengiriman dari satu platform.',
+    'feature_4_title' => 'Pemantauan Real-Time',
+    'feature_4_desc' => 'Lacak aktivitas logistik secara langsung tanpa hambatan.',
+    'feature_5_title' => 'Otomatisasi Proses',
+    'feature_5_desc' => 'Kurangi pekerjaan manual dengan sistem otomatis.',
+    'feature_6_title' => 'Analisis Data',
+    'feature_6_desc' => 'Dapatkan insight operasional melalui laporan analitik.',
+    'feature_7_title' => 'Kontrol Biaya',
+    'feature_7_desc' => 'Pantau dan optimalkan biaya logistik secara menyeluruh.',
+    'feature_8_title' => 'Integrasi Vendor',
+    'feature_8_desc' => 'Hubungkan ERP dengan mitra penyedia logistik.',
+    'feature_9_title' => 'Akses Multi-Platform',
+    'feature_9_desc' => 'Gunakan ERP dari perangkat apa pun dengan aman.',
+];

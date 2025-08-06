@@ -4,6 +4,7 @@ use App\Http\Controllers\ArtikelController;
 use App\Models\Artikel;
 use App\Models\Category;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\BlogController;
 
 /*
 |--------------------------------------------------------------------------
@@ -42,3 +43,13 @@ Route::get('konsultan', function () {
 Route::get('sitemap', function () {
     return response()->file(public_path('sitemap.xml'));
 });
+
+Route::get('/pusat-logistik-berikat', [BlogController::class, 'pusatLogistikBerikat']);
+Route::get('/solusi-logistik', [BlogController::class, 'solusiLogistik']);
+Route::get('/sistem-gudang', [BlogController::class, 'sistemGudang']);
+Route::get('/erp-logistik', [BlogController::class, 'erpLogistik']);
+Route::get('/integrasi-beacukai', [BlogController::class, 'integrasiBeaCukai']);
+Route::get('/warehouse-management-system', [BlogController::class, 'warehouseManagementSystem']);
+Route::get('/pelacakan-logistik', [BlogController::class, 'pelacakanLogistik']);
+Route::get('/logistik-indonesia', [BlogController::class, 'logistikIndonesia']);
+Route::get('/solusi-digital-logistik', [BlogController::class, 'solusiDigitalLogistik']);

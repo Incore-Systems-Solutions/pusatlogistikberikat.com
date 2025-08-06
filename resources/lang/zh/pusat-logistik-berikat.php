@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'slide_1_title' => '保税物流中心',
+    'slide_1_desc' => '提升国家进出口配送效率的战略解决方案。',
+    'slide_1_cta' => '联系我们',
+    'fitur' => '主要特点',
+    'feature_1_title' => '战略位置',
+    'feature_1_desc' => '位于关键物流分发点，提升效率。',
+    'feature_2_title' => '现代化设施',
+    'feature_2_desc' => '配备先进基础设施和数字系统。',
+    'feature_3_title' => '海关监管',
+    'feature_3_desc' => '由海关总署直接监管。',
+    'feature_4_title' => '成本效率',
+    'feature_4_desc' => '通过集成系统降低物流成本。',
+    'feature_5_title' => '集成服务',
+    'feature_5_desc' => '海关与物流服务整合于一体化平台。',
+    'feature_6_title' => '实时货物管理',
+    'feature_6_desc' => '精准实时监控货物流转。',
+    'feature_7_title' => '大容量存储',
+    'feature_7_desc' => '支持多种货物的大规模存储。',
+    'feature_8_title' => '高安全系统',
+    'feature_8_desc' => '采用全天候先进安保系统。',
+    'feature_9_title' => '交通便利',
+    'feature_9_desc' => '便捷接入陆路、海运和航空运输。',
+];

@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'slide_1_title' => 'Integrated Logistics ERP',
+    'slide_1_desc' => 'Boost logistics efficiency and accuracy with a unified ERP system.',
+    'slide_1_cta' => 'Contact Us',
+    'fitur' => 'Logistics ERP Features',
+    'feature_1_title' => 'Logistics Planning',
+    'feature_1_desc' => 'Strategically manage logistics operations.',
+    'feature_2_title' => 'Module Integration',
+    'feature_2_desc' => 'Connected with finance, warehouse, and procurement modules.',
+    'feature_3_title' => 'Order Management',
+    'feature_3_desc' => 'Manage orders and deliveries from a single platform.',
+    'feature_4_title' => 'Real-Time Monitoring',
+    'feature_4_desc' => 'Track logistics activities without delay.',
+    'feature_5_title' => 'Process Automation',
+    'feature_5_desc' => 'Reduce manual work through automation.',
+    'feature_6_title' => 'Data Analysis',
+    'feature_6_desc' => 'Gain operational insights with analytic reports.',
+    'feature_7_title' => 'Cost Control',
+    'feature_7_desc' => 'Monitor and optimize logistics costs effectively.',
+    'feature_8_title' => 'Vendor Integration',
+    'feature_8_desc' => 'Connect ERP with logistics service providers.',
+    'feature_9_title' => 'Multi-Platform Access',
+    'feature_9_desc' => 'Access the ERP securely from any device.',
+];

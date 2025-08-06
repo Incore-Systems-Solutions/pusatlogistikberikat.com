@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'slide_1_title' => 'Customs System Integration',
+    'slide_1_desc' => 'Digital transformation to streamline and accelerate customs processes.',
+    'slide_1_cta' => 'Contact Us',
+    'fitur' => 'Main Features of Customs Integration',
+    'feature_1_title' => 'Process Automation',
+    'feature_1_desc' => 'Reduce manual intervention and speed up documentation.',
+    'feature_2_title' => 'Cross-System Connectivity',
+    'feature_2_desc' => 'Connects directly with external systems for data validation.',
+    'feature_3_title' => 'Live Monitoring',
+    'feature_3_desc' => 'Track transaction status instantly and accurately.',
+    'feature_4_title' => 'Goods Tracking',
+    'feature_4_desc' => 'Efficiently follow the movement of goods in and out.',
+    'feature_5_title' => 'Integrated Compliance',
+    'feature_5_desc' => 'Ensure regulatory compliance automatically.',
+    'feature_6_title' => 'Digital Audit Trail',
+    'feature_6_desc' => 'All activities are recorded for easy review.',
+    'feature_7_title' => 'Information Security',
+    'feature_7_desc' => 'Data is protected with advanced security systems.',
+    'feature_8_title' => 'ERP Integration',
+    'feature_8_desc' => 'Aligns seamlessly with your enterprise system.',
+    'feature_9_title' => 'Concise Display',
+    'feature_9_desc' => 'Presents data and statuses in a simplified format.',
+];

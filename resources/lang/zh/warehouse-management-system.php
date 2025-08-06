@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'slide_1_title' => '仓库管理系统',
+    'slide_1_desc' => '通过自动化技术优化库存管理和分发流程。',
+    'slide_1_cta' => '联系我们',
+    'fitur' => '仓储系统主要功能',
+    'feature_1_title' => '库存管理',
+    'feature_1_desc' => '实时、精准地管理库存商品。',
+    'feature_2_title' => '仓位设置',
+    'feature_2_desc' => '高效规划与监控储存位置。',
+    'feature_3_title' => '流程自动化',
+    'feature_3_desc' => '加快商品入库和出库流程。',
+    'feature_4_title' => '货物追踪',
+    'feature_4_desc' => '追踪货物在仓库内外的流动。',
+    'feature_5_title' => '数据集成',
+    'feature_5_desc' => '与其他系统连接以保持数据一致性。',
+    'feature_6_title' => '动态报表',
+    'feature_6_desc' => '快速生成和访问仓库活动报告。',
+    'feature_7_title' => '数据安全',
+    'feature_7_desc' => '采用先进技术保障仓储数据安全。',
+    'feature_8_title' => '访问权限管理',
+    'feature_8_desc' => '根据角色分配系统访问权限。',
+    'feature_9_title' => '用户友好界面',
+    'feature_9_desc' => '简洁设计，便于操作与导航。',
+];

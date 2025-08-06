@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'slide_1_title' => 'Integrated Warehouse System',
+    'slide_1_desc' => 'Manage inventory and goods flow efficiently with a smart warehouse system.',
+    'slide_1_cta' => 'Contact Us',
+    'fitur' => 'Warehouse System Features',
+    'feature_1_title' => 'Inventory Management',
+    'feature_1_desc' => 'Monitor and control stock accurately.',
+    'feature_2_title' => 'Smart Storage',
+    'feature_2_desc' => 'Optimize space with location-based storage management.',
+    'feature_3_title' => 'Item Tracking',
+    'feature_3_desc' => 'Track goods movement in real time.',
+    'feature_4_title' => 'Data Integration',
+    'feature_4_desc' => 'Connect seamlessly with ERP and logistics modules.',
+    'feature_5_title' => 'Process Automation',
+    'feature_5_desc' => 'Minimize manual errors through automation.',
+    'feature_6_title' => 'Inbound & Outbound Management',
+    'feature_6_desc' => 'Record all incoming and outgoing activities instantly.',
+    'feature_7_title' => 'Access Security',
+    'feature_7_desc' => 'Control user access by roles and permissions.',
+    'feature_8_title' => 'Performance Reports',
+    'feature_8_desc' => 'Analyze your warehouse operational performance.',
+    'feature_9_title' => 'System Scalability',
+    'feature_9_desc' => 'Adaptable to different warehouse sizes and types.',
+];

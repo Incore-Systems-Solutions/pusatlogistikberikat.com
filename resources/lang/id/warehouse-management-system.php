@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'slide_1_title' => 'Sistem Manajemen Gudang',
+    'slide_1_desc' => 'Optimalkan pengelolaan stok dan distribusi barang melalui teknologi otomatis.',
+    'slide_1_cta' => 'Hubungi Kami',
+    'fitur' => 'Fitur Unggulan Sistem Gudang',
+    'feature_1_title' => 'Manajemen Persediaan',
+    'feature_1_desc' => 'Kelola stok barang secara real-time dan akurat.',
+    'feature_2_title' => 'Pengaturan Lokasi Gudang',
+    'feature_2_desc' => 'Atur dan pantau lokasi penyimpanan secara terstruktur.',
+    'feature_3_title' => 'Otomatisasi Proses',
+    'feature_3_desc' => 'Proses penerimaan dan pengeluaran barang berjalan lebih cepat.',
+    'feature_4_title' => 'Pelacakan Barang',
+    'feature_4_desc' => 'Lacak perpindahan barang di dalam dan antar gudang.',
+    'feature_5_title' => 'Integrasi Data',
+    'feature_5_desc' => 'Terhubung dengan sistem lain untuk pembaruan data.',
+    'feature_6_title' => 'Laporan Dinamis',
+    'feature_6_desc' => 'Akses laporan aktivitas gudang dengan cepat.',
+    'feature_7_title' => 'Keamanan Data',
+    'feature_7_desc' => 'Lindungi data gudang dengan sistem keamanan tinggi.',
+    'feature_8_title' => 'Kontrol Akses',
+    'feature_8_desc' => 'Tetapkan hak akses pengguna sesuai peran.',
+    'feature_9_title' => 'Antarmuka Ramah Pengguna',
+    'feature_9_desc' => 'Desain sederhana yang memudahkan pengguna dalam pengoperasian.',
+];

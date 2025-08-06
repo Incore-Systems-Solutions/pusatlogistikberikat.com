@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'slide_1_title' => '集成物流ERP系统',
+    'slide_1_desc' => '通过统一的ERP系统提升物流效率和准确性。',
+    'slide_1_cta' => '联系我们',
+    'fitur' => '物流ERP功能',
+    'feature_1_title' => '物流规划',
+    'feature_1_desc' => '系统化地管理物流流程。',
+    'feature_2_title' => '模块整合',
+    'feature_2_desc' => '与财务、仓储和采购模块无缝连接。',
+    'feature_3_title' => '订单管理',
+    'feature_3_desc' => '从一个平台处理订单与交付。',
+    'feature_4_title' => '实时监控',
+    'feature_4_desc' => '无延迟地跟踪物流活动。',
+    'feature_5_title' => '流程自动化',
+    'feature_5_desc' => '通过自动化减少人工操作。',
+    'feature_6_title' => '数据分析',
+    'feature_6_desc' => '通过分析报告获取运营洞察。',
+    'feature_7_title' => '成本控制',
+    'feature_7_desc' => '全面监控并优化物流成本。',
+    'feature_8_title' => '供应商整合',
+    'feature_8_desc' => '将ERP系统与物流供应商连接。',
+    'feature_9_title' => '多平台访问',
+    'feature_9_desc' => '通过任何设备安全访问ERP。',
+];

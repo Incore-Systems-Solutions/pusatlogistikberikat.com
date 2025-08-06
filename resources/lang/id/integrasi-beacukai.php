@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'slide_1_title' => 'Integrasi Sistem Bea Cukai',
+    'slide_1_desc' => 'Transformasi digital untuk mempercepat dan menyederhanakan proses kepabeanan.',
+    'slide_1_cta' => 'Hubungi Kami',
+    'fitur' => 'Fitur Utama Integrasi Bea Cukai',
+    'feature_1_title' => 'Otomatisasi Proses',
+    'feature_1_desc' => 'Kurangi intervensi manual dan percepat pengurusan dokumen.',
+    'feature_2_title' => 'Koneksi Lintas Sistem',
+    'feature_2_desc' => 'Terhubung langsung dengan sistem eksternal untuk validasi data.',
+    'feature_3_title' => 'Pemantauan Langsung',
+    'feature_3_desc' => 'Pantau status transaksi secara langsung dan akurat.',
+    'feature_4_title' => 'Pelacakan Barang',
+    'feature_4_desc' => 'Lacak arus barang masuk dan keluar secara efisien.',
+    'feature_5_title' => 'Kepatuhan Terintegrasi',
+    'feature_5_desc' => 'Pastikan kepatuhan terhadap peraturan secara otomatis.',
+    'feature_6_title' => 'Jejak Audit Digital',
+    'feature_6_desc' => 'Semua aktivitas tercatat untuk kemudahan evaluasi.',
+    'feature_7_title' => 'Keamanan Informasi',
+    'feature_7_desc' => 'Data dilindungi dengan sistem keamanan terkini.',
+    'feature_8_title' => 'Integrasi ERP',
+    'feature_8_desc' => 'Selaras dengan sistem manajemen perusahaan.',
+    'feature_9_title' => 'Tampilan Ringkas',
+    'feature_9_desc' => 'Menyajikan data dan status dalam format yang mudah dipahami.',
+];

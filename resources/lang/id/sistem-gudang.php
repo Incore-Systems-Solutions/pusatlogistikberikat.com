@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'slide_1_title' => 'Sistem Gudang Terpadu',
+    'slide_1_desc' => 'Kelola inventaris dan alur barang dengan efisiensi melalui sistem gudang cerdas.',
+    'slide_1_cta' => 'Hubungi Kami',
+    'fitur' => 'Fitur Sistem Gudang',
+    'feature_1_title' => 'Manajemen Inventaris',
+    'feature_1_desc' => 'Pantau dan kendalikan stok secara akurat.',
+    'feature_2_title' => 'Penyimpanan Cerdas',
+    'feature_2_desc' => 'Optimalkan penggunaan ruang dengan pengelolaan lokasi penyimpanan.',
+    'feature_3_title' => 'Pelacakan Barang',
+    'feature_3_desc' => 'Lacak pergerakan barang secara real-time.',
+    'feature_4_title' => 'Integrasi Data',
+    'feature_4_desc' => 'Sistem terhubung langsung dengan ERP dan modul logistik lainnya.',
+    'feature_5_title' => 'Otomatisasi Proses',
+    'feature_5_desc' => 'Kurangi kesalahan manual melalui sistem otomatis.',
+    'feature_6_title' => 'Penerimaan & Pengeluaran Barang',
+    'feature_6_desc' => 'Catat semua aktivitas masuk dan keluar dengan cepat.',
+    'feature_7_title' => 'Keamanan Akses',
+    'feature_7_desc' => 'Batasi akses pengguna berdasarkan peran dan hak.',
+    'feature_8_title' => 'Laporan Kinerja',
+    'feature_8_desc' => 'Analisis performa operasional gudang Anda.',
+    'feature_9_title' => 'Skalabilitas Sistem',
+    'feature_9_desc' => 'Cocok untuk berbagai ukuran dan jenis gudang.',
+];

@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'slide_1_title' => '海关系统集成',
+    'slide_1_desc' => '通过数字化转型加快和简化海关流程。',
+    'slide_1_cta' => '联系我们',
+    'fitur' => '海关集成主要功能',
+    'feature_1_title' => '流程自动化',
+    'feature_1_desc' => '减少人工操作，加快文件处理。',
+    'feature_2_title' => '跨系统连接',
+    'feature_2_desc' => '与外部系统直接连接以验证数据。',
+    'feature_3_title' => '实时监控',
+    'feature_3_desc' => '即时准确地追踪事务状态。',
+    'feature_4_title' => '货物追踪',
+    'feature_4_desc' => '高效追踪进出货物流动。',
+    'feature_5_title' => '合规集成',
+    'feature_5_desc' => '自动确保符合法规要求。',
+    'feature_6_title' => '数字审计轨迹',
+    'feature_6_desc' => '所有操作均被记录，便于回顾。',
+    'feature_7_title' => '信息安全',
+    'feature_7_desc' => '使用先进技术保护数据安全。',
+    'feature_8_title' => 'ERP集成',
+    'feature_8_desc' => '与企业管理系统无缝对接。',
+    'feature_9_title' => '简洁界面',
+    'feature_9_desc' => '以简洁方式展示数据与状态。',
+];

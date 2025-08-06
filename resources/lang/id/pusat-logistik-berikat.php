@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'slide_1_title' => 'Pusat Logistik Berikat',
+    'slide_1_desc' => 'Solusi strategis dalam efisiensi distribusi barang impor dan ekspor nasional.',
+    'slide_1_cta' => 'Hubungi Kami',
+    'fitur' => 'Fitur Unggulan',
+    'feature_1_title' => 'Lokasi Strategis',
+    'feature_1_desc' => 'Terletak di titik distribusi utama untuk efisiensi logistik.',
+    'feature_2_title' => 'Fasilitas Modern',
+    'feature_2_desc' => 'Dilengkapi infrastruktur canggih dan sistem digital.',
+    'feature_3_title' => 'Pengawasan Kepabeanan',
+    'feature_3_desc' => 'Dibawah pengawasan langsung Direktorat Jenderal Bea dan Cukai.',
+    'feature_4_title' => 'Efisiensi Biaya',
+    'feature_4_desc' => 'Mengurangi biaya logistik dengan sistem yang terintegrasi.',
+    'feature_5_title' => 'Pelayanan Terintegrasi',
+    'feature_5_desc' => 'Integrasi pelayanan bea cukai dan logistik dalam satu platform.',
+    'feature_6_title' => 'Manajemen Barang Real-time',
+    'feature_6_desc' => 'Monitoring pergerakan barang secara langsung dan akurat.',
+    'feature_7_title' => 'Kapasitas Penyimpanan Besar',
+    'feature_7_desc' => 'Mendukung volume besar dengan berbagai jenis barang.',
+    'feature_8_title' => 'Sistem Keamanan Tinggi',
+    'feature_8_desc' => 'Menggunakan teknologi keamanan canggih 24/7.',
+    'feature_9_title' => 'Akses Mudah',
+    'feature_9_desc' => 'Akses transportasi darat, laut, dan udara yang efisien.',
+];

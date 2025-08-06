@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'slide_1_title' => 'Modern Logistics Solution',
+    'slide_1_desc' => 'Optimize your logistics operations with an integrated and efficient system.',
+    'slide_1_cta' => 'Contact Us',
+    'fitur' => 'Logistics Solution Features',
+    'feature_1_title' => 'System Integration',
+    'feature_1_desc' => 'Connect all supply chain elements in one platform.',
+    'feature_2_title' => 'Real-Time Monitoring',
+    'feature_2_desc' => 'Track shipments and logistics status live.',
+    'feature_3_title' => 'Process Automation',
+    'feature_3_desc' => 'Minimize human error through automation.',
+    'feature_4_title' => 'Inventory Management',
+    'feature_4_desc' => 'Manage stock accurately and efficiently.',
+    'feature_5_title' => 'Reporting and Analysis',
+    'feature_5_desc' => 'Gain insights from your logistics data.',
+    'feature_6_title' => 'Customs Integration',
+    'feature_6_desc' => 'Simplify import-export with connected systems.',
+    'feature_7_title' => 'Scalability',
+    'feature_7_desc' => 'Flexible for businesses of any size.',
+    'feature_8_title' => 'Multi-Platform Access',
+    'feature_8_desc' => 'Control operations from any device.',
+    'feature_9_title' => 'Data Security',
+    'feature_9_desc' => 'Protect important data with high-level security.',
+];
